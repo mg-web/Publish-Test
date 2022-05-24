@@ -1,3 +1,0 @@
-Hello, this is a test
-
-Now let's say I make a change to the files in this repo. What happens now?
